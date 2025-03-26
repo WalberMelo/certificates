@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><img src="Complex Data Types in Python - Working with Lists & Tuples in Python.png" alt="Complex Data Types in Python Certificate" width="200" height="140"/></td>
-    <td><img src="" alt="" width="200" height="140"/></td>
-    <td><img src="" alt="" width="200" height="140"/></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
