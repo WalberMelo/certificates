@@ -1,14 +1,14 @@
-## 🎖️ Relevant certificates ##
+## 🎖️ Relevant certificates
 
 <table>
   <tr>
     <td><img src="AWS Generative AI.png" alt="AWS Generative AI Certificate" width="100%"/></td>
     <td><img src="Advanced React Meta.png" alt="Advanced React Meta Certificate" width="100%"/></td>
-    <td><img src="Big Data basic fundamentals.png" alt="Big Data Basic Fundamentals Certificate" width="100%"/></td>
+    <td><img src="/Fundamentals of AI Agents.jpeg" alt="Fundamentals of AI Agents" width="100%"/></td>
   </tr>
   <tr>
     <td><img src="Cloudinary for React Developers.png" alt="Cloudinary for React Developers Certificate" width="100%"/></td>
-    <td><img src="Complex Data Types in Python - Working with Lists & Tuples in Python.png" alt="Complex Data Types in Python Certificate" width="100%"/></td>
+    <td><img src="Data Visualization.png" alt="Kaggle Data Visualization" width="100%"/></td>
     <td><img src="Introduction to Cloudinary for Node.js Developers.png" alt="Introduction to Cloudinary for Node.js Developers Certificate" width="100%"/></td>
   </tr>
   <tr>
@@ -24,6 +24,11 @@
   <tr>
     <td><img src="Responsive Web Design.png" alt="Responsive Web Design Certificate" width="100%"/></td>
     <td><img src="Responsive websites html and css.png" alt="Responsive Websites HTML and CSS Certificate" width="100%"/></td>
-    <td></td> <!-- Empty cell for alignment -->
+     <td><img src="Big Data basic fundamentals.png" alt="Big Data Basic Fundamentals Certificate" width="100%"/></td>
+  </tr>
+    <tr>
+    <td><img src="Complex Data Types in Python - Working with Lists & Tuples in Python.png" alt="Complex Data Types in Python Certificate" width="100%"/></td>
+    <td><img src="" alt="" width="100%"/></td>
+    <td><img src="" alt="" width="100%"/></td>
   </tr>
 </table>
